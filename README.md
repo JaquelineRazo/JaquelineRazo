@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JaquelineRazo
-- 👀 I’m interested in Data Sciencie Storytelling, product development and international businesses
-- 🌱 I’m currently learning Data Analysis and Visualization
+- 👀 I’m interested in Data Sciencie, product development and international businesses
+- 🌱 I’m currently studying to become a full stack developer with JAVA.
 - 💞️ I’m looking to collaborate with visionary and passionate people
 - 📫 More about me on my website 
 <!---
